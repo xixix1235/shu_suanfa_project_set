@@ -119,12 +119,15 @@ chcp 65001
 
 Example Turn
 
-
+```
 === Current Cards on Table ===
 1.[rouge 1 vague hachure]   2.[vert 2 vague vide]   3.[vert 3 ovale plein]
-...
+4.[vert 1 vague vide]       5.[vert 3 ovale vide]    6.[vert 1 ovale hachure]
+7.[rouge 1 vague plein]    8.[mauve 1 ovale vide]  9.[mauve 1 vague vide]
+10.[mauve 3 ovale plein]   11.[mauve 1 ovale hachure] 12.[vert 2 losange plein]
 
 Alice, please make your selection: (enter card numbers)
 > 1 5 9
+```
 
 Enjoy playing SET! 🎴✨
