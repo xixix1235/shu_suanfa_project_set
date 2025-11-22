@@ -7,14 +7,14 @@ A C++ implementation of the classic SET card game, featuring object-oriented des
 SET is a real-time card game where players compete to identify "SETs" of three cards. Each SET must satisfy the condition that for each of the four attributes (color, number, shape, filling), all three cards are either all the same or all different.
 
 🏗️ Project Structure
-
-
+```
 SET_MY/
 ├── MySet.h              # Header file with class declarations
 ├── MySet.cpp            # Implementation of game logic
 ├── main.cpp             # Main game entry point
 ├── CMakeLists.txt       # Build configuration
 └── README.md            # This file
+```
 
 🏛️ Class Architecture
 
